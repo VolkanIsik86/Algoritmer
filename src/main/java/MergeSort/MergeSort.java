@@ -1,10 +1,19 @@
 package MergeSort;
 
+import java.util.Scanner;
+
 public class MergeSort {
     public static void main(String[] args) {
-    int[] A = {2,3,3,1};
+    Scanner scan = new Scanner(System.in);
+    int n = scan.nextInt();
+    int[] A = new int[n];
+        for (int i = 0; i < n ; i++) {
+            A[i] = scan.nextInt();
+        }
 
-    mergeSort(A,0, 3);
+
+
+    mergeSort(A,0, n-1);
 
         for (int i = 0; i < A.length; i++) {
             System.out.println(A[i]);

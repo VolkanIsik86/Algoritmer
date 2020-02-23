@@ -10,7 +10,7 @@ public class RingOfFire {
         int N = scan.nextInt();
         int C = scan.nextInt();
         int K = scan.nextInt();
-        List<Integer> al = new ArrayList<>();
+        List<Integer> al = new ArrayList<Integer>();
         int m=1;
         while(m!=N+1){
         al.add(m++);

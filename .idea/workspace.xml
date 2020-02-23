@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0776e15b-98a8-44bd-8d05-c9b81dd62b96" name="Default Changelist" comment="" />
+    <list default="true" id="0776e15b-98a8-44bd-8d05-c9b81dd62b96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Introduction/Introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSort/MergeSortSuggested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Peaks/peak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Peaks/peak3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MergeSort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Peaks/Peak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Peaks/Peak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RingOfFire/RingOfFire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RingOfFire/RingOfFire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MergeSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MergeSort/MergeSort.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +47,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.CccomboBreaker">
+  <component name="RunManager" selected="Application.MergeSortSuggested">
     <configuration name="CccomboBreaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CcccomboBreaker.CccomboBreaker" />
       <module name="Algoritms" />
@@ -50,9 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Introduction.Introduction" />
+      <module name="Algoritmer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSort.MergeSort" />
-      <module name="Algoritms" />
+      <module name="Algoritmer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MergeSort.*" />
@@ -63,12 +89,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSortSuggested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort.MergeSortSuggested" />
+      <module name="Algoritmer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Peak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Peaks.Peak" />
+      <module name="Algoritmer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Peaks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CccomboBreaker" />
+        <item itemvalue="Application.MergeSortSuggested" />
         <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Peak" />
+        <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.CccomboBreaker" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,6 +152,7 @@
       <workItem from="1582260615052" duration="6790000" />
       <workItem from="1582312722048" duration="84000" />
       <workItem from="1582312942338" duration="31000" />
+      <workItem from="1582412311815" duration="2810000" />
     </task>
     <servers />
   </component>
@@ -92,41 +160,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="317" y="48" key="#MergeSort" timestamp="1582413698045">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="317" y="48" key="#MergeSort/0.23.1280.709@0.23.1280.709" timestamp="1582413698045" />
     <state x="231" y="21" width="865" height="699" key="CommitChangelistDialog2" timestamp="1582317240593">
       <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state x="231" y="21" width="865" height="699" key="CommitChangelistDialog2/52.27.1228.693@52.27.1228.693" timestamp="1582317240593" />
-    <state width="1182" height="196" key="GridCell.Tab.0.bottom" timestamp="1582268752419">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.0.bottom" timestamp="1582415661802">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="1182" height="196" key="GridCell.Tab.0.bottom/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="1182" height="196" key="GridCell.Tab.0.center" timestamp="1582268752419">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.0.center" timestamp="1582415661801">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582415661801" />
     <state width="1182" height="196" key="GridCell.Tab.0.center/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="1182" height="196" key="GridCell.Tab.0.left" timestamp="1582268752418">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.0.left" timestamp="1582415661801">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582415661801" />
     <state width="1182" height="196" key="GridCell.Tab.0.left/52.27.1228.693@52.27.1228.693" timestamp="1582268752418" />
-    <state width="1182" height="196" key="GridCell.Tab.0.right" timestamp="1582268752419">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.0.right" timestamp="1582415661802">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="1182" height="196" key="GridCell.Tab.0.right/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="1182" height="196" key="GridCell.Tab.1.bottom" timestamp="1582268752420">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.1.bottom" timestamp="1582415661803">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="1182" height="196" key="GridCell.Tab.1.bottom/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="1182" height="196" key="GridCell.Tab.1.center" timestamp="1582268752420">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.1.center" timestamp="1582415661803">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="1182" height="196" key="GridCell.Tab.1.center/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="1182" height="196" key="GridCell.Tab.1.left" timestamp="1582268752420">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.1.left" timestamp="1582415661802">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="1182" height="196" key="GridCell.Tab.1.left/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="1182" height="196" key="GridCell.Tab.1.right" timestamp="1582268752420">
-      <screen x="52" y="27" width="1228" height="693" />
+    <state width="1220" height="204" key="GridCell.Tab.1.right" timestamp="1582415661803">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state width="1220" height="204" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="1182" height="196" key="GridCell.Tab.1.right/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
     <state x="326" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1582317116370">
       <screen x="52" y="27" width="1228" height="693" />
@@ -136,10 +216,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort/MergeSort.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSort/MergeSortSuggested.java</url>
+          <line>20</line>
+          <properties class="MergeSort.MergeSortSuggested" method="sort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
