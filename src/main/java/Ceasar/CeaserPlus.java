@@ -89,7 +89,7 @@ public class CeaserPlus {
     public static char changeChar(char a , int offset){
         int alphabet = 26;
         int changeTo = offset%alphabet;
-//        List<Character> temp = new LinkedList<Character>();
+//        List<Character> temp = new LinkedList.LinkedList<Character>();
 //        for (int i = 65; i < 91 ; i++) {
 //            temp.add((char)i);
 //        }
