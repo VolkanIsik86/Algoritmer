@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0776e15b-98a8-44bd-8d05-c9b81dd62b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Algoritmer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReachingPeak/ReachingThePeak.java" afterDir="false" />
+    <list default="true" id="0776e15b-98a8-44bd-8d05-c9b81dd62b96" name="Default Changelist" comment="merged">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSort/mergeOpgave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/suggestedQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/StackV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/suggestedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -37,17 +46,27 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ReachingThePeak">
-    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction.Introduction" />
-      <module name="Algoritmer" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ceasar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StackV">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
+      <module name="Algoritms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,51 +74,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort.MergeSort" />
-      <module name="Algoritmer" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.Queue" />
+      <module name="Algoritms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.Stack" />
+      <module name="Algoritms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.StackV" />
+      <module name="Algoritms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeOpgave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort.mergeOpgave" />
+      <module name="Algoritms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MergeSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortSuggested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort.MergeSortSuggested" />
-      <module name="Algoritmer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MergeSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Peak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Peaks.Peak" />
-      <module name="Algoritmer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Peaks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReachingThePeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReachingPeak.ReachingThePeak" />
-      <module name="Algoritmer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReachingPeak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReachingThePeak" />
-        <item itemvalue="Application.MergeSortSuggested" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Peak" />
-        <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.StackV" />
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.mergeOpgave" />
+        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -146,97 +159,187 @@
       <workItem from="1582312942338" duration="31000" />
       <workItem from="1582412311815" duration="2810000" />
       <workItem from="1583066524032" duration="6932000" />
+      <workItem from="1583151746774" duration="4394000" />
+      <workItem from="1583156847269" duration="2549000" />
+      <workItem from="1583159709305" duration="17766000" />
+      <workItem from="1583226677361" duration="14927000" />
+      <workItem from="1583307936032" duration="238000" />
+      <workItem from="1583309269546" duration="2931000" />
+      <workItem from="1583338292636" duration="9339000" />
+      <workItem from="1583499354262" duration="1489000" />
+      <workItem from="1583504358171" duration="1094000" />
+      <workItem from="1583735344817" duration="6270000" />
+      <workItem from="1583741782722" duration="5000" />
+      <workItem from="1583848931574" duration="146000" />
+      <workItem from="1583856721094" duration="1373000" />
+      <workItem from="1583859458588" duration="81000" />
+      <workItem from="1583910887427" duration="33000" />
     </task>
+    <task id="LOCAL-00001" summary="alge man 2">
+      <created>1583534608847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583534608847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alge man 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="alge man 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="48" key="#MergeSort" timestamp="1582413698045">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="317" y="48" key="#MergeSort/0.23.1280.709@0.23.1280.709" timestamp="1582413698045" />
-    <state x="2293" y="27" width="1804" height="1413" key="CommitChangelistDialog2" timestamp="1583075980166">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state x="326" y="21" width="689" height="699" key="#ReachingThePeak" timestamp="1583152146386">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="326" y="21" width="689" height="699" key="#ReachingThePeak/52.27.1228.693@52.27.1228.693" timestamp="1583152146386" />
+    <state x="231" y="21" width="1804" height="1413" key="CommitChangelistDialog2" timestamp="1583534673428">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state x="2293" y="27" width="1804" height="1413" key="CommitChangelistDialog2/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075980166" />
-    <state x="231" y="21" width="865" height="699" key="CommitChangelistDialog2/52.27.1228.693@52.27.1228.693" timestamp="1582317240593" />
-    <state width="2518" height="486" key="GridCell.Tab.0.bottom" timestamp="1583075838453">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state x="231" y="21" width="865" height="699" key="CommitChangelistDialog2/52.27.1228.693@52.27.1228.693" timestamp="1583534673428" />
+    <state width="1182" height="114" key="GridCell.Tab.0.bottom" timestamp="1583858094107">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="2518" height="486" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838453" />
-    <state width="1182" height="196" key="GridCell.Tab.0.bottom/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="2518" height="486" key="GridCell.Tab.0.center" timestamp="1583075838452">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.0.bottom/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200353" />
+    <state width="1182" height="114" key="GridCell.Tab.0.bottom/52.27.1228.693@52.27.1228.693" timestamp="1583858094107" />
+    <state width="1674" height="206" key="GridCell.Tab.0.bottom/52.27.2948.693@52.27.2948.693" timestamp="1583307820515" />
+    <state width="1182" height="114" key="GridCell.Tab.0.center" timestamp="1583858094106">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582415661801" />
     <state width="2518" height="486" key="GridCell.Tab.0.center/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838452" />
-    <state width="1182" height="196" key="GridCell.Tab.0.center/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="2518" height="486" key="GridCell.Tab.0.left" timestamp="1583075838452">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.0.center/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200352" />
+    <state width="1182" height="114" key="GridCell.Tab.0.center/52.27.1228.693@52.27.1228.693" timestamp="1583858094106" />
+    <state width="1674" height="206" key="GridCell.Tab.0.center/52.27.2948.693@52.27.2948.693" timestamp="1583307820515" />
+    <state width="1182" height="114" key="GridCell.Tab.0.left" timestamp="1583858094106">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582415661801" />
     <state width="2518" height="486" key="GridCell.Tab.0.left/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838452" />
-    <state width="1182" height="196" key="GridCell.Tab.0.left/52.27.1228.693@52.27.1228.693" timestamp="1582268752418" />
-    <state width="2518" height="486" key="GridCell.Tab.0.right" timestamp="1583075838452">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.0.left/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200352" />
+    <state width="1182" height="114" key="GridCell.Tab.0.left/52.27.1228.693@52.27.1228.693" timestamp="1583858094106" />
+    <state width="1674" height="206" key="GridCell.Tab.0.left/52.27.2948.693@52.27.2948.693" timestamp="1583307820515" />
+    <state width="1182" height="114" key="GridCell.Tab.0.right" timestamp="1583858094107">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="2518" height="486" key="GridCell.Tab.0.right/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838452" />
-    <state width="1182" height="196" key="GridCell.Tab.0.right/52.27.1228.693@52.27.1228.693" timestamp="1582268752419" />
-    <state width="2518" height="486" key="GridCell.Tab.1.bottom" timestamp="1583075838453">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.0.right/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200352" />
+    <state width="1182" height="114" key="GridCell.Tab.0.right/52.27.1228.693@52.27.1228.693" timestamp="1583858094107" />
+    <state width="1674" height="206" key="GridCell.Tab.0.right/52.27.2948.693@52.27.2948.693" timestamp="1583307820515" />
+    <state width="1182" height="195" key="GridCell.Tab.1.bottom" timestamp="1583741618734">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="2518" height="486" key="GridCell.Tab.1.bottom/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838453" />
-    <state width="1182" height="196" key="GridCell.Tab.1.bottom/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="2518" height="486" key="GridCell.Tab.1.center" timestamp="1583075838453">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.1.bottom/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200353" />
+    <state width="1182" height="195" key="GridCell.Tab.1.bottom/52.27.1228.693@52.27.1228.693" timestamp="1583741618734" />
+    <state width="1674" height="206" key="GridCell.Tab.1.bottom/52.27.2948.693@52.27.2948.693" timestamp="1583307820516" />
+    <state width="1182" height="195" key="GridCell.Tab.1.center" timestamp="1583741618734">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="2518" height="486" key="GridCell.Tab.1.center/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838453" />
-    <state width="1182" height="196" key="GridCell.Tab.1.center/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="2518" height="486" key="GridCell.Tab.1.left" timestamp="1583075838453">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.1.center/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200353" />
+    <state width="1182" height="195" key="GridCell.Tab.1.center/52.27.1228.693@52.27.1228.693" timestamp="1583741618734" />
+    <state width="1674" height="206" key="GridCell.Tab.1.center/52.27.2948.693@52.27.2948.693" timestamp="1583307820516" />
+    <state width="1182" height="195" key="GridCell.Tab.1.left" timestamp="1583741618734">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1582415661802" />
     <state width="2518" height="486" key="GridCell.Tab.1.left/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838453" />
-    <state width="1182" height="196" key="GridCell.Tab.1.left/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
-    <state width="2518" height="486" key="GridCell.Tab.1.right" timestamp="1583075838453">
-      <screen x="1920" y="0" width="2560" height="1440" />
+    <state width="1674" height="206" key="GridCell.Tab.1.left/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200353" />
+    <state width="1182" height="195" key="GridCell.Tab.1.left/52.27.1228.693@52.27.1228.693" timestamp="1583741618734" />
+    <state width="1674" height="206" key="GridCell.Tab.1.left/52.27.2948.693@52.27.2948.693" timestamp="1583307820515" />
+    <state width="1182" height="195" key="GridCell.Tab.1.right" timestamp="1583741618734">
+      <screen x="52" y="27" width="1228" height="693" />
     </state>
     <state width="1220" height="204" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1582415661803" />
     <state width="2518" height="486" key="GridCell.Tab.1.right/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583075838453" />
-    <state width="1182" height="196" key="GridCell.Tab.1.right/52.27.1228.693@52.27.1228.693" timestamp="1582268752420" />
+    <state width="1674" height="206" key="GridCell.Tab.1.right/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583312200353" />
+    <state width="1182" height="195" key="GridCell.Tab.1.right/52.27.1228.693@52.27.1228.693" timestamp="1583741618734" />
+    <state width="1674" height="206" key="GridCell.Tab.1.right/52.27.2948.693@52.27.2948.693" timestamp="1583307820516" />
+    <state x="152" y="21" width="1024" height="699" key="SettingsEditor" timestamp="1583344959373">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="152" y="21" width="1024" height="699" key="SettingsEditor/52.27.1228.693@52.27.1228.693" timestamp="1583344959373" />
+    <state x="264" y="108" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1583534686319">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="264" y="108" width="800" height="541" key="Vcs.Push.Dialog.v2/52.27.1228.693@52.27.1228.693" timestamp="1583534686319" />
     <state x="2491" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1583066525443">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2491" y="326" key="com.intellij.ide.util.TipDialog/1920.0.2560.1440/0.126.1920.1080@1920.0.2560.1440" timestamp="1583066525443" />
     <state x="326" y="184" key="com.intellij.ide.util.TipDialog/52.27.1228.693@52.27.1228.693" timestamp="1582317116370" />
+    <state x="436" y="292" width="459" height="173" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583534636607">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="436" y="292" width="459" height="173" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/52.27.1228.693@52.27.1228.693" timestamp="1583534636607" />
+    <state x="402" y="120" width="524" height="506" key="extract.method.dialog" timestamp="1583344264362">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="402" y="120" width="524" height="506" key="extract.method.dialog/52.27.1228.693@52.27.1228.693" timestamp="1583344264362" />
+    <state width="429" height="370" key="javadoc.popup.new" timestamp="1583309624737">
+      <screen x="1280" y="0" width="1720" height="720" />
+    </state>
+    <state width="429" height="370" key="javadoc.popup.new/52.27.1228.693/1280.0.1720.720@1280.0.1720.720" timestamp="1583309624737" />
+    <state width="306" height="422" key="javadoc.popup.new/52.27.1228.693@52.27.1228.693" timestamp="1583155065347" />
+    <state x="786" y="120" key="run.anything.popup" timestamp="1583504753691">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="786" y="120" key="run.anything.popup/52.27.1228.693@52.27.1228.693" timestamp="1583504753691" />
+    <state x="329" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1583217140481">
+      <screen x="52" y="27" width="1228" height="693" />
+    </state>
+    <state x="329" y="41" width="672" height="678" key="search.everywhere.popup/52.27.1228.693@52.27.1228.693" timestamp="1583217140481" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort/MergeSortSuggested.java</url>
-          <line>20</line>
-          <properties class="MergeSort.MergeSortSuggested" method="sort">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ReachingPeak/ReachingThePeak.java</url>
-          <line>18</line>
+          <line>17</line>
           <properties class="ReachingPeak.ReachingThePeak" method="peak">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ceasar/CeaserPlus.java</url>
+          <line>88</line>
+          <properties class="Ceasar.CeaserPlus" method="changeChar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Stack/Stack.java</url>
+          <line>26</line>
+          <properties class="Stack.Stack" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="temp.get(temp.size()-1)" language="JAVA" />
+        <watch expression="arr.get(temp.size())" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algoritms$MergeSort.ic" NAME="MergeSort Coverage Results" MODIFIED="1582200670256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
